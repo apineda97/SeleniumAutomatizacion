@@ -15,6 +15,7 @@ public class FireFox {
         //https://www.google.com/
         //https://qa-blue.omnibnk.com/login
         System.out.print(driver.getTitle());
+
     }
 }
 
