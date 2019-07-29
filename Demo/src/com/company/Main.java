@@ -16,7 +16,7 @@ public class Main{
         System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
         WebDriver driver  = new ChromeDriver();
         driver.get("https://qa-blue.omnibnk.com/login");
-        driver.manage().timeouts().implicitlyWait(1, TimeUnit.MINUTES);
+        driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
         //https://www.google.com/
         //https://qa-blue.omnibnk.com/login
         System.out.println("Titulo de la pag: " + driver.getTitle());
