@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="714e7edb-85a5-4f37-9d2c-d3cc0d45c0be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Alertas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Bloqueo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FluentWaitPru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KeysQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TestTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_6_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CertificacionPaginaHttps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DobleVentana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FechasFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ForVariasVentanas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/META-INF/Demo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bucle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bucle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FluentWaitPru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FluentWaitPru.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,20 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -56,9 +68,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Escritorio/qa-automation" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -77,47 +90,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestTime.test">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Test2" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TestTime" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Time" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTime.prueba" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ScreenShot">
+    <configuration name="ScreenShot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -126,14 +100,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.TestTime" />
-      <option name="METHOD_NAME" value="prueba" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ScreenShot" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTime.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenShot" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
@@ -142,20 +116,77 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.TestTime" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ScreenShot" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShot.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ScreenShot" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShot.test02" type="TestNG" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ScreenShot" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestTime.test" />
-        <item itemvalue="Application.TestTime" />
-        <item itemvalue="JUnit.TestTime.prueba" />
-        <item itemvalue="Application.Time" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="TestNG.ScreenShot" />
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.ScreenShot.test01" />
+        <item itemvalue="JUnit.ScreenShot.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +204,16 @@
       <workItem from="1562077450431" duration="33521000" />
       <workItem from="1562598764782" duration="20253000" />
       <workItem from="1562707618745" duration="90587000" />
-      <workItem from="1564093246110" duration="15456000" />
+      <workItem from="1564093246110" duration="39005000" />
+      <workItem from="1564511516193" duration="2227000" />
+      <workItem from="1564534117640" duration="23622000" />
+      <workItem from="1565705512219" duration="13239000" />
+      <workItem from="1565816717036" duration="209000" />
+      <workItem from="1565816950197" duration="768000" />
+      <workItem from="1565817736736" duration="57000" />
+      <workItem from="1565817812168" duration="1057000" />
+      <workItem from="1565818888802" duration="105000" />
+      <workItem from="1565819011841" duration="5811000" />
     </task>
     <servers />
   </component>
@@ -194,83 +234,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Demo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Demo$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1565815686547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

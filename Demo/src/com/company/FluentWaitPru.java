@@ -7,7 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
-
 import java.time.Duration;
 import java.util.function.Function;
 
@@ -31,9 +30,13 @@ public class FluentWaitPru {
         WebElement foo  = wait.until(new Function<WebDriver, WebElement>() {
             @Override
             public WebElement apply(WebDriver driver) {
-                return driver.findElement(By.id("finish"));
+                if (driver.findElement(By.id("finish")).isDisplayed()) {
+                    return driver.findElement(By.id("finish"));
+                } else {
+                    return null;
+                }
             }
         });
-
+        System.out.println(driver.findElement(By.id("finish")).getText());
     }
 }
